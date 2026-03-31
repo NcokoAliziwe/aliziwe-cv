@@ -81,11 +81,10 @@ VS Code, Visual Studio, NetBeans
 ### Lecturer  
 **Meagan Hamman**  
 - Email: hammanm@cput.ac.za  
-- Phone: 083 381 9056  
+- Phone: 021 460 3752 
 
 ### Liaison Manager  
 **Gwynneth Hendricks**  
 - Email: gwynneth@sun.ac.za  
 - Phone: 082 708 0627  
 
-[Mock-up interview ]<video controls src="assets/Mock-up interview Video.mp4" title="Title"></video>
