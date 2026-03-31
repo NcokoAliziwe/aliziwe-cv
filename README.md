@@ -88,7 +88,7 @@ VS Code, Visual Studio, NetBeans
 - Phone: 082 708 0627
 
   # aliziwe-cv
- Project Highlights  - Developed a professional CV showcasing my skills and experience   - Created a mock-up in## ## 🎥 Demo Video
+ Project Highlights  - Developed a professional CV showcasing my skills and experience   - 🎥 Interview Mock-up Video 
 
 [Watch the video](https://youtu.be/WYZK_DwcxrM),
 
