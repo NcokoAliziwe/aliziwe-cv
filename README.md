@@ -1,8 +1,3 @@
-# aliziwe-cv
- Project Highlights  - Developed a professional CV showcasing my skills and experience   - Created a mock-up in## ## 🎥 Demo Video
-
-[Watch the video](https://youtu.be/WYZK_DwcxrM),
-
 # ALIZIWE NCOKO
 **Junior Full-Stack Developer | UI/UX Designer**
 
@@ -90,5 +85,10 @@ VS Code, Visual Studio, NetBeans
 ### Liaison Manager  
 **Gwynneth Hendricks**  
 - Email: gwynneth@sun.ac.za  
-- Phone: 082 708 0627  
+- Phone: 082 708 0627
+
+  # aliziwe-cv
+ Project Highlights  - Developed a professional CV showcasing my skills and experience   - Created a mock-up in## ## 🎥 Demo Video
+
+[Watch the video](https://youtu.be/WYZK_DwcxrM),
 
